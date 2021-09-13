@@ -5,7 +5,7 @@ public class MapHashmatiqueTest {
     //Create a Hash Map
     public static void main(String[] args) {
         HashMap<String, String> trackList = new HashMap<String, String>();
-        //Add key_value pairs
+        //Add key_value pairs (songs by John Legend)
         trackList.put("Ordinary People", "We're just ordinary people, We don't know which way to go");
         trackList.put("Written In The Stars", "You can go anywhere babe wherever you want, Because I know we're written in the stars");
         trackList.put("This Time", "This time I want it all, I'm showing you all the cards");
