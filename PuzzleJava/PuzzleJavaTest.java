@@ -1,5 +1,6 @@
 import java.util.Random;
 import java.util.ArrayList;
+
 public class PuzzleJavaTest {
     public static void main(String[] args) {
         PuzzleJava puzzleTest = new PuzzleJava();
