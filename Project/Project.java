@@ -10,7 +10,7 @@ public class Project {
     //Create constructors; Overload the constructor method in three different ways.
     //1
     public Project (){  
-        this.name = "Please provide a name.";
+        this.name = "Please provide a name";
         this.description = "Please provide a description.";
     }
     //2
@@ -44,7 +44,7 @@ public class Project {
     }
 
     //Optional Challenge!
-    
+
     //Add an additional initialCost member variable that is of type double and has both getters and setters
     //getter
     public String getInitialCost() {
