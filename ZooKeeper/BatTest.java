@@ -8,5 +8,6 @@ public class BatTest{
         bat.eatHumans();
         bat.fly();
         bat.fly();
+        bat.displayEnergy();
     }
 }
