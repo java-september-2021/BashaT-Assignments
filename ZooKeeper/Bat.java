@@ -8,7 +8,7 @@ public class Bat extends Mammal2{
         this.energyLevel -= 50;
     }
     public void eatHumans(){
-        System.out.println("So- will, never mind");
+        System.out.println("So- well, never mind");
         this.energyLevel += 25;
     }
     public void attackTown(){
